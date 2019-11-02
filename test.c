@@ -2,7 +2,7 @@
 
 int main()
 {
-  printf("Hello World!");
+  printf("Hello Linux!");
 
   return 0;
 }
